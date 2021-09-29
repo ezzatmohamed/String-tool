@@ -37,13 +37,12 @@ $ composer install
 replace `hello world` with any other string
 ```
 $ php main.php hello world
-$ php vendor/bin/phpunit UnitTesting/
 ```
 
 
 **For Unit testing**
 ```
-$ ./vendor/bin/phpunit
+$ php vendor/bin/phpunit UnitTesting/
 ```
 
 
