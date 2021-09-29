@@ -5,7 +5,6 @@
    * [How to run](#how-to-run)<br>
         * [Requirements](#requirements) <br>
         * [Installation](#installation) <br>
-        * [Setting up Environment values](#setting-up-environment-values) <br>
         * [Steps to run](#steps-to-run) <br>
 
     
