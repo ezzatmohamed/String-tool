@@ -18,7 +18,7 @@ A String tool that takes a string from CLI and performs some operations on it.
 **Technologies** : PHP8 & PHPUnit
 
 
-**Operting System Used** : Ubuntu
+**Opertaing System Used** : Ubuntu
 
 # How to run
 
